@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "bert-testing"
+version = "0.1.0"
+description = "Repertoire de test pour bert"
+authors = ["Primous POMALEGNI <primouspomalegni2@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
